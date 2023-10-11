@@ -238,7 +238,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 236,Otto Bock HealthCare,3.52,6/24/2017,Germany,Duderstadt,Healthcare & Life Sciences,EQT Partners,Europe
 237,Indigo Ag,3.5,9/26/2017,United States,Boston,Industrials,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",North America
 238,eToro,3.5,3/21/2023,United Kingdom,London,Financial Services,"BRM Group, Spark Capital, Social Leverage",Europe
-239,HyalRoute,3.5,5/26/2020,Singapore,,Industrials,Kuang-Chi,Asia
+239,HyalRoute,3.5,5/26/2020,Singapore,Singapore,Industrials,Kuang-Chi,Asia
 240,Rec Room,3.5,3/23/2021,United States,Seattle,Media & Entertainment,"First Round Capital, Sequoia Capital, Index Ventures",North America
 241,Commure,3.5,9/16/2021,United States,San Francisco,Healthcare & Life Sciences,"General Catalyst, HCA Healthcare",North America
 242,Mirakl,3.5,9/22/2020,France,Paris,Consumer & Retail,"Elaia Partners, 83North, Felix Capital",Europe
@@ -342,7 +342,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 340,Sourcegraph,2.62,7/13/2021,United States,San Francisco,Enterprise Tech,"Redpoint Ventures, Goldcrest Capital, Insight Partners",North America
 341,Pendo,2.6,10/17/2019,United States,Raleigh,Enterprise Tech,"Contour Venture Partners, Battery Ventures, Core Capital Partners",North America
 342,Plume,2.6,2/23/2021,United States,Palo Alto,Industrials,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",North America
-343,Moglix,2.6,5/17/2021,Singapore,,Industrials,"Jungle Ventures, Accel, Venture Highway",Asia
+343,Moglix,2.6,5/17/2021,Singapore,Singapore,Industrials,"Jungle Ventures, Accel, Venture Highway",Asia
 344,Axonius,2.6,3/1/2021,United States,New York,Enterprise Tech,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",North America
 345,Xinchao Media,2.0,4/9/2018,China,Chengdu,Media & Entertainment,"JD.com, Baidu, Vision Plus Capital",Asia
 346,JumpCloud,2.62,9/13/2021,United States,Louisville,Enterprise Tech,"Foundry Group, General Atlantic, BlackRock",North America
@@ -370,7 +370,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 368,SiFive,2.5,3/16/2022,United States,San Mateo,Enterprise Tech,"Sutter Hill Ventures, Osage University Partners, Spark Capital",North America
 369,Games24x7,2.5,3/30/2022,India,Mumbai,Media & Entertainment,"Tiger Global Management, The Raine Group, Malabar Investments",Asia
 370,Fetch,2.5,3/31/2021,United States,Madison,Consumer & Retail,"Greycroft, Loeb.NYC, DST Global",North America
-371,Coda Payments,2.5,4/15/2022,Singapore,,Financial Services,"GIC. Apis Partners, Insight Partners",Asia
+371,Coda Payments,2.5,4/15/2022,Singapore,Singapore,Financial Services,"GIC. Apis Partners, Insight Partners",Asia
 372,DriveNets,2.5,1/27/2021,Israel,Ra'anana,Enterprise Tech,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",Asia
 373,Hibob,2.45,10/12/2021,Israel,Tel Aviv,Enterprise Tech,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",Asia
 374,Uala,2.45,8/13/2021,Argentina,Buenos Aires,Financial Services,"Soros Fund Management, Ribbit Capital, Monashees+",South America
@@ -487,7 +487,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 485,SmartNews,2.0,8/5/2019,Japan,Tokyo,Media & Entertainment,"Japan Post Capital, Globis Capital Partners, Atomico",Asia
 486,Misfits Market,2.0,4/21/2021,United States,Pennsauken,Consumer & Retail,"Accel, D1 Capita Partners, Greenoaks Capital Management",North America
 487,Black Sesame Technologies,2.0,9/22/2021,China,Shanghai,Industrials,"Northern Light Venture Capital, Xiaomi, FutureX Capital",Asia
-488,Advance Intelligence Group,2.0,9/23/2021,Singapore,,Financial Services,"Vision Plus Capital, GSR Ventures, ZhenFund",Asia
+488,Advance Intelligence Group,2.0,9/23/2021,Singapore,Singapore,Financial Services,"Vision Plus Capital, GSR Ventures, ZhenFund",Asia
 489,Modern Treasury,2.0,10/6/2021,United States,San Francisco,Financial Services,"Benchmark, Altimeter Capital, Quiet Capital",North America
 490,Magic Leap,2.0,10/21/2014,United States,Plantation,Enterprise Tech,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",North America
 491,TIER,2.0,10/25/2021,Germany,Berlin,Industrials,"Northzone Ventures, White Star Capital, Novator Partners",Europe
@@ -499,7 +499,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 497,Netlify,2.0,11/17/2021,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",North America
 498,SWORD Health,2.0,11/22/2021,United States,New York,Healthcare & Life Sciences,"Khosla Ventures, Green Innovations, Founders Fund",North America
 499,LTK,2.0,11/22/2021,United States,Dallas,Media & Entertainment,"SoftBank Group, Maverick Capital",North America
-500,Trax,2.0,7/22/2019,Singapore,,Consumer & Retail,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",Asia
+500,Trax,2.0,7/22/2019,Singapore,Singapore,Consumer & Retail,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",Asia
 501,Exotec,2.0,1/17/2022,France,Croix,Industrials,"Breega Capital, Iris Capital, 360 Capital Partners",Europe
 502,Dremio,2.0,1/6/2021,United States,Santa Clara,Enterprise Tech,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",North America
 503,Akulaku,2.0,2/15/2022,Indonesia,Jakarta,Financial Services,"DCM Ventures, IDG Capital, Siam Commercial Bank",Asia
@@ -533,7 +533,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 531,MEGAZONE,1.83,8/16/2022,South Korea,Seoul,Enterprise Tech,"Salesforce Ventures, ATP Investment, kt investment",Asia
 532,CFGI,1.85,9/15/2021,United States,Boston,Financial Services,"The Carlyle Group, CVC Capital Partners",North America
 533,ZocDoc,1.8,8/20/2015,United States,New York,Healthcare & Life Sciences,"Founders Fund, Khosla Ventures, Goldman Sachs",North America
-534,Scroll,1.8,3/14/2023,Seychelles,,Financial Services,"OKX Ventures, Sequoia Capital China, IOSG",Africa
+534,Scroll,1.8,3/14/2023,Seychelles,Victoria,Financial Services,"OKX Ventures, Sequoia Capital China, IOSG",Africa
 535,Diamond Foundry,1.8,3/29/2021,United States,San Francisco,Industrials,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",North America
 536,Quantexa,1.8,4/3/2023,United Kingdom,London,Enterprise Tech,"AlbionVC, Dawn Capital, HSBC Venture Capital",Europe
 537,FullStory,1.8,8/4/2021,United States,Atlanta,Enterprise Tech,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",North America
@@ -558,7 +558,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 556,Redesign Health,1.7,9/13/2022,United States,New York,Healthcare & Life Sciences,"General Catalyst, Samsung NEXT, CVS Health Partners",North America
 557,Tessera Therapeutics,1.69,4/19/2022,United States,Cambridge,Healthcare & Life Sciences,"Altitude Life Science Ventures, SoftBank Group, Alaska Permanent Fund",North America
 558,Uniswap,1.66,10/13/2022,United States,New York,Financial Services,"A16z Crypto, Variant Fund, Paradigm",North America
-559,Kredivo Holdings,1.66,8/15/2022,Singapore,,Financial Services,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",Asia
+559,Kredivo Holdings,1.66,8/15/2022,Singapore,Singapore,Financial Services,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",Asia
 560,Unite Us,1.6,3/16/2021,United States,New York,Healthcare & Life Sciences,"Insight Partners, Sequoia Capital, Index Ventures",North America
 561,CircleCI,1.7,5/11/2021,United States,San Francisco,Enterprise Tech,"Threshold Ventures, Baseline Ventures, Harrison Metal",North America
 562,Wave,1.7,9/7/2021,Senegal,Dakar,Financial Services,"Stripe, Founders Fund, Partech Partners",Africa
@@ -616,7 +616,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 614,Carzone,1.52,3/1/2019,China,Jiangsu,Industrials,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",Asia
 615,Runway,1.5,5/4/2023,United States,New York,Media & Entertainment,"Lux Capital, Compound, Amplify Partners",North America
 616,OpenWeb,1.5,11/9/2021,United States,New York,Media & Entertainment,"Insight Partners, AltaIR Capital, Norma Investments",North America
-617,bolttech,1.5,7/1/2021,Singapore,,Insurance,"Mundi Ventures, Doqling Capital Partners, Activant Capital",Asia
+617,bolttech,1.5,7/1/2021,Singapore,Singapore,Insurance,"Mundi Ventures, Doqling Capital Partners, Activant Capital",Asia
 618,First Mode,1.5,12/7/2022,United States,Seattle,Industrials,Anglo American,North America
 619,Bilt Rewards,1.5,10/25/2022,United States,New York,Financial Services,"Camber Creek, Kairos HQ, Fifth Wall Ventures",North America
 620,Mu Sigma,1.5,2/7/2013,United States,Northbrook,Enterprise Tech,"Sequoia Capital, General Atlantic",North America
@@ -891,7 +891,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 889,Caribou,1.1,5/23/2022,United States,Denver,Insurance,"CMFG Ventures, Accomplice, Moderne Ventures",North America
 890,Nowports,1.1,5/24/2022,Mexico,Monterrey,Industrials,"Monashees+, Foundation Capital, Base10 Partners",North America
 891,People.ai,1.1,8/11/2021,United States,San Francisco,Enterprise Tech,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",North America
-892,Carousell,1.1,9/15/2021,Singapore,,Consumer & Retail,"500 Global, Rakuten Ventures, Golden Gate Ventures",Asia
+892,Carousell,1.1,9/15/2021,Singapore,Singapore,Consumer & Retail,"500 Global, Rakuten Ventures, Golden Gate Ventures",Asia
 893,apna,1.1,9/15/2021,India,Bengaluru,Enterprise Tech,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",Asia
 894,Karat,1.1,10/13/2021,United States,Seattle,Enterprise Tech,"8VC, Norwest Venture Partners, Tiger Global Management",North America
 895,Enpal,1.1,10/18/2021,Germany,Berlin,Industrials,"HV Capital, Softbank Group, BlackRock",Europe
@@ -1046,7 +1046,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1044,WeBull,1.0,2/18/2021,China,Changsha,Financial Services,"Bojiang Capital, Hongdao Capital, Mobai Capital",Asia
 1045,Newsela,1.0,2/25/2021,United States,New York,Consumer & Retail,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",North America
 1046,Aqua Security,1.0,3/10/2021,Israel,Ramat Gan,Enterprise Tech,"TLV Partners, Lightspeed Venture Partners, M12",Asia
-1047,PatSnap,1.0,3/16/2021,Singapore,,Enterprise Tech,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",Asia
+1047,PatSnap,1.0,3/16/2021,Singapore,Singapore,Enterprise Tech,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",Asia
 1048,Evidation,1.0,3/22/2021,United States,San Mateo,Healthcare & Life Sciences,"B Capital Group,, GE Ventures, McKesson Ventures",North America
 1049,Sidecar Health,1.0,1/26/2021,United States,El Segundo,Healthcare & Life Sciences,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",North America
 1050,Feedzai,1.0,3/24/2021,United States,San Mateo,Financial Services,"Global Founders Capital, Shea Ventures, Greycroft",North America
@@ -1064,7 +1064,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1062,Inari,1.5,5/12/2021,United States,Cambridge,Industrials,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",North America
 1063,Mux,1.0,4/30/2021,United States,San Francisco,Media & Entertainment,"Accel, Cobalt Capital, Andreessen Horowitz",North America
 1064,XForcePlus,1.0,6/1/2021,China,Shanghai,Enterprise Tech,"Eastern Bell Capital, Danhua Capital, MSA Capital",Asia
-1065,Augustinus Bader,1.0,11/9/2022,United Kingdom,London,Consumer & Retail,General Atlantic,
+1065,Augustinus Bader,1.0,11/9/2022,United Kingdom,London,Consumer & Retail,General Atlantic,Europe
 1066,Shift,1.0,5/6/2021,France,Paris,Insurance,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",Europe
 1067,TensTorrent,1.0,5/5/2021,Canada,Toronto,Enterprise Tech,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",North America
 1068,Zihaiguo,1.0,5/6/2021,China,Chongqing,Consumer & Retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",Asia
@@ -1073,12 +1073,12 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1071,Amount,1.0,5/17/2021,United States,Chicago,Financial Services,"Invus Group, Hanaco Venture Capital, WestCap Group",North America
 1072,Vise,1.0,5/18/2021,United States,New York,Financial Services,"Sequoia Capital, Founders Fund, Bling Capital",North America
 1073,Printful,1.0,5/24/2021,United States,Charlotte,Consumer & Retail,Bregal Sagemount,North America
-1074,Matrixport,1.05,6/1/2021,Singapore,,Financial Services,"Dragonfly Captial, Qiming Venture Partners, DST Global",Asia
+1074,Matrixport,1.05,6/1/2021,Singapore,Singapore,Financial Services,"Dragonfly Captial, Qiming Venture Partners, DST Global",Asia
 1075,Shippo,1.0,6/2/2021,United States,San Francisco,Industrials,"Version One Ventures, Uncork Capital, Bessemer Venture Partners",North America
 1076,Thirty Madison,1.0,6/2/2021,United States,New York,Healthcare & Life Sciences,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",North America
 1077,LetsGetChecked,1.0,6/7/2021,Ireland,Dublin,Healthcare & Life Sciences,"Optum Ventures, Qiming Venture Partners, Transformation Capital",Europe
 1078,EcoFlow,1.0,6/10/2021,China,Shenzhen,Industrials,"Delian Capital, China International Capital Corporation, Sequoia Capital China",Asia
-1079,Carro,1.0,6/14/2021,Singapore,,Industrials,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",Asia
+1079,Carro,1.0,6/14/2021,Singapore,Singapore,Industrials,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",Asia
 1080,Tractable,1.0,6/16/2021,United Kingdom,London,Insurance,"Insight Partners, Ignition Partners, Georgian Partners",Europe
 1081,Xiaoe Tech,1.0,6/15/2021,China,Shenzhen,Enterprise Tech,"GGV Capital, Hillhouse Capital Management, IDG Capital",Asia
 1082,Bringg,1.0,6/16/2021,Israel,Tel Aviv,Enterprise Tech,"Salesforce Ventures, next47, Pereg Ventures",Asia
@@ -1096,7 +1096,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1094,Xiaoice,1.0,7/12/2021,China,Beijing,Media & Entertainment,"NetEase Capital, Northern Light Venture Capital, Microsoft",Asia
 1095,dMed Biopharmaceutical,1.0,7/12/2021,China,Shanghai,Healthcare & Life Sciences,"Qiming Venture Partners, Vivo Capital, Sequoia Capital China",Asia
 1096,Carson Group,1.0,7/14/2021,United States,Lincoln,Financial Services,Bain Capital,North America
-1097,NIUM,1.0,7/13/2021,Singapore,,Financial Services,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",Asia
+1097,NIUM,1.0,7/13/2021,Singapore,Singapore,Financial Services,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",Asia
 1098,Human Interest,1.0,8/4/2021,United States,San Francisco,Financial Services,"Wing Venture Capital, Slow Ventures, Uncork Capital",North America
 1099,Bluecore,1.0,8/5/2021,United States,New York,Consumer & Retail,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",North America
 1100,Freshbooks,1.0,8/10/2021,Canada,Toronto,Enterprise Tech,"Accomplice, Oak Investment Partners, Georgian Partners",North America
@@ -1116,7 +1116,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1114,PandaDoc,1.0,9/22/2021,United States,San Francisco,Enterprise Tech,"Rembrandt Venture Partners, M12, Altos Ventures",North America
 1115,Keenon Robotics,1.0,9/15/2021,China,Shanghai,Industrials,"Yunqi Partners, SoftBank Group, iVision Ventures",Asia
 1116,HAYDON,1.0,9/24/2021,China,Shanghai,Consumer & Retail,"Tencent Holdings, Hillhouse Capital Management",Asia
-1117,Ninja Van,1.0,9/27/2021,Singapore,,Consumer & Retail,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",Asia
+1117,Ninja Van,1.0,9/27/2021,Singapore,Singapore,Consumer & Retail,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",Asia
 1118,Vedantu,1.0,9/29/2021,India,Bengaluru,Consumer & Retail,"Accel, Tiger Global Management, Omidyar Network",Asia
 1119,TrialSpark,1.0,9/30/2021,United States,New York,Healthcare & Life Sciences,"Sequoia Capital, Thrive Capital, Sound Ventures",North America
 1120,Ajaib,1.0,10/4/2021,Indonesia,Jakarta,Financial Services,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",Asia
@@ -1166,7 +1166,7 @@ ID,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Con
 1164,Haomo.AI,1.0,12/22/2021,China,Beijing,Industrials,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",Asia
 1165,Kopi Kenangan,1.0,12/27/2021,Indonesia,Jakarta,Consumer & Retail,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",Asia
 1166,InFarm,1.0,12/16/2021,Germany,Berlin,Industrials,"Atomico, Hanaco Venture Capital, TriplePoint Capital",Europe
-1167,ONE,1.0,12/8/2021,Singapore,,Media & Entertainment,"Temasek, Guggenheim Investments, Qatar Investment Authority",Asia
+1167,ONE,1.0,12/8/2021,Singapore,Singapore,Media & Entertainment,"Temasek, Guggenheim Investments, Qatar Investment Authority",Asia
 1168,Fractal Analytics,1.0,1/5/2022,India,Mumbai,Enterprise Tech,"TPG Capital, Apax Partners, TA Associates",Asia
 1169,Assent,1.0,1/6/2022,Canada,Ottawa,Industrials,"Vista Equity Partners, Warburg Pincus, First Ascent Ventures",North America
 1170,Placer.ai,1.0,1/12/2022,United States,Los Altos,Consumer & Retail,"Fifth Wall Ventures, JBV Capital, Array Ventures",North America
